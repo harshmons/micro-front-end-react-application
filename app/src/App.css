@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+.header-container{
+  height: 60px;
+}
+.footer-container{
+  position: fixed;
+  bottom: 0;
+  height:100px;
+  width: 100%;
+}
+.content{
+  display: flex;
+  height: calc(100vh - 160px);
+}
+.content > *{
+  flex:1 50%;
+}
