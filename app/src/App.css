@@ -18,3 +18,11 @@
 .content > *{
   flex:1 50%;
 }
+.react-logo{
+  height: 90px;
+}
+.main-app{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

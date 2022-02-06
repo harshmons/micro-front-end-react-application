@@ -2,11 +2,11 @@
 </script>
 
 <div class="footer">
-	Your Svelte application is successfully loaded
+	Footer Application in <img src="http://localhost:3004/svelte.png" class="svelte-logo"/>
 </div>
 <style>
 	.footer{
-		background-color: lightgrey;
+		background-color: #aaa;
 		font-size: 18px;
 		font-weight: bold;
 		text-align: center;
@@ -14,6 +14,9 @@
 		display: flex;
 		justify-content: center;
 		align-items: center;
+	}
+	.svelte-logo{
+		height:70px;
 	}
 
 </style>

@@ -1,9 +1,12 @@
 import './App.css';
+import {ReactComponent as ReactLogo} from "./logo.svg"
 function App() {
   return (
     <div className="header">
-        React Header is successfully rendered
+        Header Application in
+        <ReactLogo className="react-logo1"/>
     </div>
+    
   );
 }
 

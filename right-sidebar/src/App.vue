@@ -1,6 +1,7 @@
 <template>
   <div class="right-sidebar">
-    Your Vue Application is successfully loaded
+    Right sidebar Application in
+    <img src="./assets/logo.png" class="vue-logo">
   </div>
 </template>
 
@@ -13,7 +14,7 @@ export default {
 
 <style>
 .right-sidebar{
-  background-color: grey;
+  background-color: #03efb942;
   font-size: 18px;
   font-weight: bold;
   text-align: center;
@@ -21,5 +22,8 @@ export default {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+.vue-logo{
+  height:100px;
 }
 </style>

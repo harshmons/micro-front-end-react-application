@@ -1,5 +1,5 @@
 .header{
-  background-color: aquamarine;
+  background-color: #888;
   font-size: 18px;
   font-weight: bold;
   text-align: center;
@@ -7,4 +7,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+}
+.react-logo1{
+  height:90%;
 }
