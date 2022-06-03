@@ -26,3 +26,4 @@ Its a Svelte application developed using svelte webpack template and acting as m
 - Open browser and type `http://localhost:3000`
 
 <img width="1440" alt="Screenshot 2022-02-07 at 1 24 51 AM" src="https://user-images.githubusercontent.com/12604444/152698973-ded96d4a-1aa3-4764-8012-28bf5e50d4cc.png">
+
